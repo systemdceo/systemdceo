@@ -2,7 +2,9 @@
 
 <h2>Contact me</h2>
 <p>
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  <a href="mailto:true.commercial.mail@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
 </p>
 
 <h2>About me</h2>
