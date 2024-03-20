@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About me
-I'm Yurii, full stack web developer. My main specialization is web application development using HTML5, CSS, JS, Python, Flask-framework etc. I have a secondary technical education, but I acquired the basic skills in programming on my own. My training was focused on practical application of knowledge, and I actively applied it in creating web applications. I confidently apply these skills in creating quality software and continue to actively develop in this area. I am inspired by the opportunity to create innovative solutions that improve people's lives. In my free time I am fond of reading books, learning new technologies and languages. I am open to collaboration and knowledge sharing, and I am always ready for new projects and challenges. If you have any questions or suggestions, feel free to contact me in any convenient way. [🔗 Links](#Links)
+I'm Yurii, full stack web developer. My main specialization is web application development using HTML5, CSS, JS, Python, Flask-framework etc. I have a secondary technical education, but I acquired the basic skills in programming on my own. My training was focused on practical application of knowledge, and I actively applied it in creating web applications. I confidently apply these skills in creating quality software and continue to actively develop in this area. I am inspired by the opportunity to create innovative solutions that improve people's lives. In my free time I am fond of reading books, learning new technologies and languages. I am open to collaboration and knowledge sharing, and I am always ready for new projects and challenges. If you have any questions or suggestions, feel free to contact me in any convenient way. [Links 🔗](#links)
 
 ## 🧠 Skills
 > ### 💻 Front-End Development
@@ -26,8 +26,8 @@ I'm Yurii, full stack web developer. My main specialization is web application d
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-## Links
+
+## <a id="links"></a>🔗 Links
   [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:true.commercial.mail@proton.me)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fuckyourbrainsbitch/)
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DangerHadgehog/)
