@@ -1,7 +1,7 @@
 # Hi there! 👋 ⭐I'm currently seeking employment.⭐
 
 ## 🚀 About me
-I'm Yurii, a self-taught full-stack web developer. My expertise lies in crafting dynamic web applications using a blend of [HTML5, CSS, JavaScript, Python, and the Flask framework, etc](#skills). I like to build intuitive and robust web applications. If you're aiming to streamline your processes or launch the next big thing, if you're ready to elevate your projects to new heights, simply [reach out to me](#links), and together, we'll make it great!
+I'm Yurii, a self-taught [full-stack](#skills) web developer. My expertise lies in crafting dynamic web applications using a blend of HTML5, CSS, JavaScript, Python, and the Flask framework, etc. I like to build intuitive and robust web applications. If you're aiming to streamline your processes or launch the next big thing, if you're ready to elevate your projects to new heights, simply reach out to me, and together, we'll make it great!
 
 Curious to learn more? [Check out my links 🔗](#links).
 
