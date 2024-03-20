@@ -1,7 +1,9 @@
-# Hi there! 👋
+# Hi there! 👋 ⭐I'm currently seeking employment.⭐
 
 ## 🚀 About me
-I'm Yurii, full stack web developer. My main specialization is web application development using [HTML5, CSS, JS, Python, Flask-framework etc](#skills). I have a secondary technical education, but I acquired the basic skills in programming on my own. My training was focused on practical application of knowledge, and I actively applied it in creating web applications. I confidently apply these skills in creating quality software and continue to actively develop in this area. I am inspired by the opportunity to create innovative solutions that improve people's lives. In my free time I am fond of reading books, learning new technologies and languages. I am open to collaboration and knowledge sharing, and I am always ready for new projects and challenges. If you have any questions or suggestions, feel free to contact me in any convenient way. [Check out my links 🔗.](#links)
+I'm Yurii, a self-taught full-stack web developer. My expertise lies in crafting dynamic web applications using a blend of [HTML5, CSS, JavaScript, Python, and the Flask framework, etc](#skills). I like to build intuitive and robust web applications. If you're aiming to streamline your processes or launch the next big thing, if you're ready to elevate your projects to new heights, simply [reach out to me](#links), and together, we'll make it great!
+
+Curious to learn more? [Check out my links 🔗](#links).
 
 ## <a id="skills"></a> 🧠 Skills
 > ### 💻 Front-End Development
